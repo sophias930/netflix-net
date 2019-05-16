@@ -1,10 +1,10 @@
 # netflix-net /IN PROGRESS/
 
-Netflix spotify-type see what ur friends r up to 
-Track browsing of friends to see what they’re watching! 
-Chrome extension
-Log in somehow using ur google account; use google username to find ppl 
-Add to database automatically upon installation 
+Netflix spotify-type thing to see what ur friends r up to 
+- Track browsing of friends to see what they’re watching! 
+- Chrome extension
+- Log in somehow using ur google account; use google username to find ppl 
+- Add to database automatically upon installation 
 
 TODO: 
 - Create cute icon
