@@ -7,14 +7,14 @@ Log in somehow using ur google account; use google username to find ppl
 Add to database automatically upon installation 
 
 TODO: 
-Create cute icon
-Setup default popup window for the the browser action icon; this is where the meat of the project lies! 
-List of friends 
-Manage friends
-lead to popup window with options (like adblock) 
-Search usernames → follow
-Learn how to create database of ppl for friends network 
-Learn how to extract name of thing being watched from current web page
+- Create cute icon
+- Setup default popup window for the the browser action icon; this is where the meat of the project lies! 
+  - List of friends 
+  - Manage friends
+   - leads to popup window with options (like adblock) 
+     - Search usernames → follow
+- Learn how to create database of ppl for friends network 
+- Learn how to extract name of thing being watched from current web page
 
 
 
