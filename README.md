@@ -1,5 +1,7 @@
 # netflix-net
 
+~ UNFINISHED ~
+
 Netflix spotify-type see what ur friends r up to 
 Track browsing of friends to see what they’re watching! 
 Chrome extension
